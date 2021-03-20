@@ -1,10 +1,12 @@
 <p align="center"><a href="http://interview.xiaoyou66.com/" target="_blank" rel="noopener noreferrer"><img width="180" src="http://interview.xiaoyou66.com/img/study.png" alt="logo"></a></p>
 
 <p align="center">
+    <a href="http://interview.xiaoyou66.com/"> <img src="https://badgen.net/badge/%E5%B0%8F%E6%B8%B8/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB?icon=sourcegraph"></a>
   <a href="https://github.com/xiaoyou66/interview/actions?query=workflow%3ACI"><img src="https://github.com/xiaoyou66/interview/workflows/CI/badge.svg" alt="CI"></a>
-  <a href="https://github.com/xiaoyou66/interview/blob/master/LICENSE"><img src="https://img.shields.io/github/license/xiaoyou66/interview
-" alt="License"></a>
   <a href="https://github.com/xiaoyou66/interview"><img src="https://img.shields.io/github/stars/xiaoyou66/interview?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"></a>
+   <a href="https://github.com/xiaoyou66/interview"> <img src="https://badgen.net/github/forks/xiaoyou66/interview?icon=github"></a>
+
+​    
 
 <h1 align="center">✏️面试问题浓缩总结</h1>
 
@@ -29,6 +31,34 @@
 ### 提供在线文档
 
 为了方便大家在手机上阅读，我也提供了在线文档，方便大家随时查看。
+
+## 目录
+
+### 程序语言
+
+- java相关
+
+- go相关
+
+### 数据库
+
+- MySQL
+- Redis
+- MongoDB
+
+### 基础学科
+
+- 操作系统
+- 计算机网络
+
+### 框架
+
+- spring全家桶
+
+### 软件和系统
+
+- git
+- Linux
 
 ## 支持这个项目
 

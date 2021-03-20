@@ -15,7 +15,7 @@ module.exports = [
     items: [
       { text: 'MySQL', link: '/pages/1aef7c/' },
       { text: 'Redis', link: '/pages/cbd711/' },
-      { text: 'MongoDB', link: '/pages/cbd711/' },
+      { text: 'MongoDB', link: '/pages/cbd712/' },
     ],
   },
   {
