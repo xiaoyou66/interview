@@ -20,6 +20,6 @@ postList: none
 
 - **B站**: <https://space.bilibili.com/343147393>
 - **博客**: <https://xiaoyou66.com/>
-- **GitHub**: <https://github.com/xugaoyi>
+- **GitHub**: <https://github.com/xiaoyou66>
 
 </br> 
