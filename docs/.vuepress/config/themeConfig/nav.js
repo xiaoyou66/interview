@@ -42,12 +42,12 @@ module.exports = [
     ],
   },
   {
-    text: '索引',
-    link: '/archives/',
+    text: '算法和数据结构',
+    link: '/algorithm/',
     items: [
-      { text: '分类', link: '/categories/' },
-      { text: '标签', link: '/tags/' },
-      { text: '归档', link: '/archives/' },
+      { text: '算法', link: '/pages/817a23/' },
+      { text: '数据结构', link: '/pages/cf8bda/' },
+      { text: '设计模式', link: '/pages/d240cd/' },
     ],
   },
   {
