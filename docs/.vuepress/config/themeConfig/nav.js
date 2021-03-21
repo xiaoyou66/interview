@@ -49,5 +49,9 @@ module.exports = [
       { text: '标签', link: '/tags/' },
       { text: '归档', link: '/archives/' },
     ],
+  },
+  {
+    text: 'APP下载',
+    link: 'https://www.yd-mobile.cn/pack/download?versionId=2497&packName=com.xiaoyou.interview'
   }
 ]
