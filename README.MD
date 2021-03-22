@@ -105,6 +105,12 @@ APP下载链接：[面试浓缩APP下载](https://www.yd-mobile.cn/pack/download
 - git
 - Linux
 
+### 算法和数据结构
+
+- 算法
+- 数据结构
+- 设计模式
+
 ## 💰支持这个项目
 
 | 微信                                                         | 支付宝                                                       |

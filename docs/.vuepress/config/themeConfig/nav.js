@@ -2,7 +2,7 @@
 module.exports = [
   { text: '首页', link: '/' },
   {
-    text: '程序语言',
+    text: '语言',
     link: '/code/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
     items: [
       { text: 'Go语言笔记', link: '/pages/05f204/' },
@@ -19,7 +19,7 @@ module.exports = [
     ],
   },
   {
-    text: '基础学科',
+    text: '学科',
     link: '/base/',
     items: [
       { text: '操作系统', link: '/pages/5bfa72/' },
@@ -34,7 +34,7 @@ module.exports = [
     ],
   },
   {
-    text: '软件和系统',
+    text: '软件|系统',
     link: '/system/',
     items: [
       { text: 'Git使用', link: '/pages/6bf004/' },
@@ -42,12 +42,21 @@ module.exports = [
     ],
   },
   {
-    text: '算法和数据结构',
+    text: '算法|数据结构',
     link: '/algorithm/',
     items: [
       { text: '算法', link: '/pages/817a23/' },
       { text: '数据结构', link: '/pages/cf8bda/' },
       { text: '设计模式', link: '/pages/d240cd/' },
+    ],
+  },
+  {
+    text: '面试',
+    link: '/interview/',
+    items: [
+      { text: '字节跳动', link: '/pages/e7050d/' },
+      { text: '阿里巴巴', link: '#' },
+      { text: '腾讯', link: '#' },
     ],
   },
   {
