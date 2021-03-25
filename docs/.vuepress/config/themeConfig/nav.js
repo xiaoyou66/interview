@@ -30,7 +30,7 @@ module.exports = [
     text: '框架',
     link: '/frame/',
     items: [
-      { text: 'spring全家桶', link: '/pages/f2a556/' },
+      { text: 'spring全家桶', link: '/pages/9baa5c/' },
       { text: 'mybatis', link: '/pages/eaabb9/' },
     ],
   },
