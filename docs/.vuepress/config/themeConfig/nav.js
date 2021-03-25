@@ -1,12 +1,12 @@
 // nav
 module.exports = [
-  { text: '首页', link: '/' },
   {
     text: '语言',
     link: '/code/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
     items: [
-      { text: 'Go语言笔记', link: '/pages/05f204/' },
-      { text: 'Java语言笔记', link: '/pages/0b69c8/' },
+      { text: 'Go语言', link: '/pages/05f204/' },
+      { text: 'Java语言', link: '/pages/0b69c8/' },
+      { text: 'C语言', link: '/pages/7426b1/' },
     ],
   },
   {
@@ -31,14 +31,15 @@ module.exports = [
     link: '/frame/',
     items: [
       { text: 'spring全家桶', link: '/pages/f2a556/' },
+      { text: 'mybatis', link: '/pages/eaabb9/' },
     ],
   },
   {
     text: '软件|系统',
     link: '/system/',
     items: [
-      { text: 'Git使用', link: '/pages/6bf004/' },
-      { text: 'Linux系统相关', link: '/pages/a5d462/' },
+      { text: '软件相关', link: '/pages/6bf004/' },
+      { text: '系统相关', link: '/pages/a5d462/' },
     ],
   },
   {
@@ -48,15 +49,21 @@ module.exports = [
       { text: '算法', link: '/pages/817a23/' },
       { text: '数据结构', link: '/pages/cf8bda/' },
       { text: '设计模式', link: '/pages/d240cd/' },
+      { text: 'CMU硕士经典100题', link: '/pages/413b20/' },
     ],
   },
   {
     text: '面试',
     link: '/interview/',
     items: [
-      { text: '字节跳动', link: '/pages/e7050d/' },
-      { text: '阿里巴巴', link: '#' },
-      { text: '腾讯', link: '#' },
+      { text: '3月', link: '/pages/e7050d/' },
+    ],
+  },
+  {
+    text: '其他',
+    link: '/other/',
+    items: [
+      { text: '智力题', link: '/pages/e6c953/' }
     ],
   },
   {
