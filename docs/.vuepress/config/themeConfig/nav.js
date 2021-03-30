@@ -50,6 +50,8 @@ module.exports = [
       { text: '数据结构', link: '/pages/cf8bda/' },
       { text: '设计模式', link: '/pages/d240cd/' },
       { text: 'CMU硕士经典100题', link: '/pages/413b20/' },
+      { text: '剑指offer', link: '/pages/279e94/' },
+      { text: '重点手撕代码', link: '/pages/87a8c4/' },
     ],
   },
   {
