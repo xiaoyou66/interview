@@ -65,7 +65,9 @@ module.exports = [
     text: '其他',
     link: '/other/',
     items: [
-      { text: '智力题', link: '/pages/e6c953/' }
+      { text: '智力题', link: '/pages/e6c953/' },
+      { text: '业务问题', link: '/pages/cfc81f/' },
+      { text: '一些技术', link: '/pages/829562/' }
     ],
   },
   {
