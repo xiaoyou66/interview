@@ -32,6 +32,7 @@ module.exports = [
     items: [
       { text: 'spring全家桶', link: '/pages/9baa5c/' },
       { text: 'mybatis', link: '/pages/eaabb9/' },
+      { text: '中间件', link: '/pages/4ee7f5/' },
     ],
   },
   {
@@ -52,6 +53,7 @@ module.exports = [
       { text: 'CMU硕士经典100题', link: '/pages/413b20/' },
       { text: '剑指offer', link: '/pages/279e94/' },
       { text: '重点手撕代码', link: '/pages/87a8c4/' },
+      { text: '程序员面试金典', link: '/pages/570ec8/' },
     ],
   },
   {
@@ -59,6 +61,7 @@ module.exports = [
     link: '/interview/',
     items: [
       { text: '3月', link: '/pages/e7050d/' },
+      { text: '4月', link: '/pages/d81239/' },
     ],
   },
   {
