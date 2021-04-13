@@ -71,7 +71,8 @@ module.exports = [
     items: [
       { text: '智力题', link: '/pages/e6c953/' },
       { text: '业务问题', link: '/pages/cfc81f/' },
-      { text: '一些技术', link: '/pages/829562/' }
+      { text: '一些技术', link: '/pages/829562/' },
+      { text: '安全相关', link: '/pages/56e2d2/' }
     ],
   },
   {
